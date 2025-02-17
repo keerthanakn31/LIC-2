@@ -37,6 +37,15 @@ Id = 5.56046e-05     <br>
    =2.751k ohms<br>
 </p> <br>
 
+<p>
+  Now replace the resister value by Rd = 2.751891k ohm
+  Since the Calculated current doesnot match the simulated value, maintain the MOSFET length 180nm and vary the width untill the required current.  
+</p>
+
+
+
+
+
 
 
 
