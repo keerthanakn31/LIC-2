@@ -17,7 +17,9 @@
   Signal generater : 0.9V   <br>
   DC voltage : 1.9V     <br>
   Amplitude :  50mV   <br>
-  Frequency :   1k   <br>  
+  Frequency :   1k   <br> 
+  Gate volt : 0.7<br>
+
 </p> <br>
 
 **DC Analysis**
@@ -37,7 +39,7 @@ Id = 5.54093e-11     <br>
 </p> <br>
 
 <p>
-  Now replace the resister value by Rd = 2.751891k ohm
+  Now replace the resister  by PMOS 
   Since the Calculated current doesnot match the simulated value, maintain the MOSFET length 180nm and vary the width untill the required current.  
 </p>
 
@@ -72,6 +74,7 @@ Id = 5.54093e-11     <br>
 
 <p>
    The Dc operating point confirms that NMOS operates in saturation region.<br>
+   DC operating point (1.8V , 55.5um)
    
 </p>
 
@@ -111,7 +114,7 @@ Id = 5.54093e-11     <br>
 
 **INFERENCE**
 <p>
- Diode connected MOSFET will always be in the Saturation region. From DC analysis we get the dc operation point and confirms whether the mosfet is in saturation region.Transient amalysis  shows how the mosfet behave for the time varying Ac signal (sinewave), It shows that ampliflied output with phase shift of 180 degree.The voltage gain Av can be determined by looking at the ratio of the output to input signal magnitude.
+ Diode connected MOSFET will always be in the Saturation region.Replace register by PMOS, From DC analysis we get the dc operation point and confirms whether the mosfet is in saturation region.Transient amalysis  shows how the mosfet behave for the time varying Ac signal (sinewave), It shows that ampliflied output with phase shift of 180 degree.The voltage gain Av can be determined by looking at the ratio of the output to input signal magnitude.
 The AC analysis helps to determine the small signal behaviour like gain.
 These analyses are essential for designing and evaluating the performance of a common-source amplifier.
   
