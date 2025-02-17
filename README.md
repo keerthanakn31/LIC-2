@@ -1,35 +1,23 @@
-### Experiment 2:
+ Experiment 2:
 
-**DC,AC and Transient analysis of Common Source Amplifier with**
-
-
-### COMPONENTS :
-PMOS<br>
-NMOS(180nm)<br>
-Voltage supply (1.8 ,0.7)<br>
-AC ground<br>
-Wires<br>
-I=  55.5uA<br>
+**Transient AC and DC analysis of common source ampliflier**
 
 
-### DC ANALYSIS :
+<p> The circuit represents the common source ampliflier. To determine the Dc,Ac and Transient analysis of the CS ampliflier circuit.</p> <br>
 
-
-In Dc analysis we can determine the operating point of the MOSFET,and make sure  whether it is in saturation region for proper amplification.
-The drain current is:<br>
-ID=1/2KnVov<sup>2<sup><br>
-
-Vds and ID gives the stable operating point <br>
-P=100uW<br?>
-wkt P=VI, where V=1.8V and I=55,5um
-vout=1.704 =Vds
-Q point = (Vds,ID)= (1.704V,55.5um)
-
-### Tabular column:
-
-
-
-### AC ANALYSIS :
+**COMPONENTS**
+<p>
+  This circuit consists of TSMC 180nm Transister ,register and voltage source <br> 
+  MOSFET LENGTH : 180nm <br>
+  MOSFET WIDTH :       <br>
+  Threshold voltage : 0.36 <br>
+  Resister : 2.72K <br>
+  Supply voltage : 1.8V <br>
+  Signal generater : 0.9V   <br>
+  DC voltage : 1.9V     <br>
+  Amplitude :  50mV   <br>
+  Frequency :   1k   <br>  
+</p> <br>
 
 
 
@@ -39,7 +27,7 @@ Q point = (Vds,ID)= (1.704V,55.5um)
 
 
 
-### TRANSIENT ANALYSIS :
+
 
 
 
