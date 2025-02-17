@@ -2,7 +2,7 @@
 
 **Transient AC and DC analysis of common source ampliflier**
 
-
+![Image](https://github.com/user-attachments/assets/924a28ea-fda1-440a-9d24-e2438bbbed8d)
 
 <p> The circuit represents the common source ampliflier. To determine the Dc,Ac and Transient analysis of the CS ampliflier circuit. Here we replace the resistor by PMOS .</p> <br>
 
