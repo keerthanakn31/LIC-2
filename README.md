@@ -14,7 +14,7 @@
   Threshold voltage : 0.36 <br>
   PMOS and NMOS  <br>
   Supply voltage : 1.8V <br>
-  Signal generater : 0.9V   <br>
+  Signal generater : 0.7V   <br>
   DC voltage : 1.9V     <br>
   Amplitude :  50mV   <br>
   Frequency :   1k   <br> 
@@ -128,6 +128,25 @@ These analyses are essential for designing and evaluating the performance of a c
   Gain= 0.5277   <br>
   
 </p>
+
+### COMPARISION TABLE:
+
+|    Parameters      |        Circuit 1      |               Circuit 2              |
+|--------------------|-----------------------|--------------------------------------|
+|   Connection       | Resistor and NMOSFET  | NMOSFET and Diode connection PMOSFET |
+|    length          |     180nm             |                180nm                 |
+|     width          |                       |                                      |
+|     Supply voltage |      1.8V             |                 1.8V                 |
+|    Gate Voltage    |        0.9V           |                0.7V                  |
+|     Vout           |                       |                                      |
+|     Power          |     100uW             |               100uW                  |
+|      Current       |      55.5uA           |              55.5uA                  |
+|     Q point        |                       |                                      |
+|     Phase shift    |       180 degree      |             180 degree               |
+|     Gain           |                       |                                      |
+
+
+
 
 
 
