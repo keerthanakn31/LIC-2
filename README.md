@@ -1,6 +1,6 @@
 ### Experiment 2:
 
-**DC,AC and Transient analysis of Common Source Amplifier with Active loaad**
+**DC,AC and Transient analysis of Common Source Amplifier with**
 
 
 ### COMPONENTS :
@@ -26,6 +26,7 @@ vout=1.704 =Vds
 Q point = (Vds,ID)= (1.704V,55.5um)
 
 ### Tabular column:
+
 
 
 ### AC ANALYSIS :
