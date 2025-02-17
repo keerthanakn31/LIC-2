@@ -50,32 +50,30 @@ Id = 5.56046e-05     <br>
   </tr>
   <tr>
     <td>180nm</td>
-    <td>0.1um</td>
-    <td>4.78279e-05</td>
+    <td>5um</td>
+    <td>5.2752e-11</td>
   </tr>
   <tr>
   <td>180nm</td>
-  <td>0.2um</td>
-  <td> 5.48873e-05	</td>
+  <td>5.1um</td>
+  <td> 5.36375e-11	</td>
   </tr><br>
   <tr>
     <td>180nm</td>
-    <td>0.205</td>
-    <td>5.53984e-05	</td>
+    <td>5.2um</td>
+    <td> 5.45232e-11	</td>
   </tr>
     
   <tr>
     <td>180nm</td>
-    <td>0.207um</td>
-    <td> 5.56046e-05</td>
+    <td>5.3um</td>
+    <td> 5.54093e-11</td>
   </tr>
 </table><br>
 
 <p>
    The Dc operating point confirms that NMOS operates in saturation region.<br>
-   Vds = Vd-Vs = -0 =  <br>
-  Vov + Vgs-Vth =0.9-0.36 =0.54V<br>
-  Vds>(Vgs-Vth)<br>
+   
 </p>
 
 **AC ANALYSIS**
