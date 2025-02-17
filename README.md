@@ -80,8 +80,7 @@ Id = 5.54093e-11     <br>
 
 **AC ANALYSIS**
 
-
-![Image](https://github.com/user-attachments/assets/69ab131d-d236-4d1f-bf34-40f629bcb79a)
+![Image](https://github.com/user-attachments/assets/5d526ac7-a461-4120-a15c-c3f1fc9ac6ae)
 
 <P>
   In AC analysis we determine the frequency response by appluing the small signal analysis to the circuit. we do this analysis to check in which frequency the circuit acts as a linear ampliflier.
@@ -104,8 +103,8 @@ Id = 5.54093e-11     <br>
 </p><br>
 
 <p>
-  Gain = Vin/Vout<br>
-  AV= 0.5277 <br>
+  Gain = Vout/Vin<br>
+  Av =1.89 <br>
   This matches the theoritical value which is calculated but Av = gmRd.<br>
   where gm+ KnVov<br>
   From graph we can observe that there is 180 degree phase shift which is exhibitied by CS ampliflier.
@@ -125,7 +124,7 @@ These analyses are essential for designing and evaluating the performance of a c
   Vout= 1.8v  <br>
   Id=  5.54093e-11<br>
   Vin= 950mV   <br>
-  Gain= 0.5277   <br>
+  Gain= 1.89   <br>
   
 </p>
 
@@ -143,7 +142,7 @@ These analyses are essential for designing and evaluating the performance of a c
 |      Current       |      55.5uA           |              55.5uA                  |
 |     Q point        | (1.6887V,55.5um  )    |     (1.8V , 55.5um)                  |
 |     Phase shift    |       180 degree      |             180 degree               |
-|     Gain           |    1.77               |               1.89                   |
+|     Gain           |    1.77               |             1.89                     |
 
 
 
