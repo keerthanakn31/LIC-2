@@ -138,12 +138,12 @@ These analyses are essential for designing and evaluating the performance of a c
 |     width          |     0.207um           |               5.2um                  |
 |     Supply voltage |      1.8V             |                 1.8V                 |
 |    Gate Voltage    |        0.9V           |                0.7V                  |
-|     Vout           |                       |                                      |
+|     Vout           |      1.68879V         |               1.8V                   |
 |     Power          |     100uW             |               100uW                  |
 |      Current       |      55.5uA           |              55.5uA                  |
-|     Q point        |                       |                                      |
+|     Q point        | (1.6887V,55.5um  )    |     (1.8V , 55.5um)                  |
 |     Phase shift    |       180 degree      |             180 degree               |
-|     Gain           |    0.5625             |               0.5277                       |
+|     Gain           |    1.77               |               1.89                   |
 
 
 
