@@ -78,6 +78,7 @@ Id = 5.56046e-05     <br>
 
 **AC ANALYSIS**
 
+![Image](https://github.com/user-attachments/assets/b5843619-8e87-49c1-9f3b-5ac87ad2d4c9)
 
 <P>
   In AC analysis we determine the frequency response by appluing the small signal analysis to the circuit. we do this analysis to check in which frequency the circuit acts as a linear ampliflier.
