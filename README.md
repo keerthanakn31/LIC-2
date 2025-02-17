@@ -107,6 +107,25 @@ Id = 5.56046e-05     <br>
   
 </p><br>
 
+**INFERENCE**
+<p>
+ Diode connected MOSFET will always be in the Saturation region. From DC analysis we get the dc operation point and confirms whether the mosfet is in saturation region.Transient amalysis  shows how the mosfet behave for the time varying Ac signal (sinewave), It shows that ampliflied output with phase shift of 180 degree.The voltage gain Av can be determined by looking at the ratio of the output to input signal magnitude.
+The AC analysis helps to determine the small signal behaviour like gain.
+These analyses are essential for designing and evaluating the performance of a common-source amplifier.
+  
+</p><br>
+
+**RESULT**
+<p>
+  Vout= 1.68879V  <br>
+  Id=  5.56046e-05     <br>
+  Vin= 950mV   <br>
+  Gain= 0.5625   <br>
+  
+</p>
+
+
+
 
   
 
