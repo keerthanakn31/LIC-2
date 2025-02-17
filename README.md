@@ -23,11 +23,11 @@
 **DC Analysis**
 
 ![Image](https://github.com/user-attachments/assets/25559551-c57b-4206-a4ab-89199bad6401)
-
+![Image](https://github.com/user-attachments/assets/682654ab-12d1-408a-8f3f-f5e5af9f0caf)
 
 <p>
 From the analysis we got<br> 
-Vout =1.68879V    <br>
+Vout =1.8V    <br>
 Vin =950mV <br>
 Id = 5.54093e-11     <br>
  If the power dessipation is 100um  across the register ,then 
@@ -102,7 +102,7 @@ Id = 5.54093e-11     <br>
 
 <p>
   Gain = Vin/Vout<br>
-  AV= 0.5625 <br>
+  AV= 0.5277 <br>
   This matches the theoritical value which is calculated but Av = gmRd.<br>
   where gm+ KnVov<br>
   From graph we can observe that there is 180 degree phase shift which is exhibitied by CS ampliflier.
@@ -119,10 +119,10 @@ These analyses are essential for designing and evaluating the performance of a c
 
 **RESULT**
 <p>
-  Vout= 1.68879V  <br>
-  Id=  5.56046e-05     <br>
+  Vout= 1.8v  <br>
+  Id=  5.54093e-11<br>
   Vin= 950mV   <br>
-  Gain= 0.5625   <br>
+  Gain= 0.5277   <br>
   
 </p>
 
