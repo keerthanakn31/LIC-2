@@ -29,14 +29,11 @@
 From the analysis we got<br> 
 Vout =1.68879V    <br>
 Vin =950mV <br>
-Id = 5.56046e-05     <br>
+Id = 5.54093e-11     <br>
  If the power dessipation is 100um  across the register ,then 
  currengt  throught the resister is<br>
  Id = 100um/1.8 =55.5um<br>
- The output loadline is given by <br>
- Vout =Vdd-(Id-Rd)<br>
- Rd=(1.8-1.674)/55.5um<br>
-   =2.751k ohms<br>
+
 </p> <br>
 
 <p>
@@ -80,6 +77,8 @@ Id = 5.56046e-05     <br>
 
 **AC ANALYSIS**
 
+
+![Image](https://github.com/user-attachments/assets/69ab131d-d236-4d1f-bf34-40f629bcb79a)
 
 <P>
   In AC analysis we determine the frequency response by appluing the small signal analysis to the circuit. we do this analysis to check in which frequency the circuit acts as a linear ampliflier.
