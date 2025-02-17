@@ -42,6 +42,28 @@ Id = 5.56046e-05     <br>
   Since the Calculated current doesnot match the simulated value, maintain the MOSFET length 180nm and vary the width untill the required current.  
 </p>
 
+<table>
+  <tr>
+    <td>Length</td>
+    <td>Width</td>
+    <td>Id</td>
+  </tr>
+  <tr>
+    <td>180nm</td>
+    <td>0.1um</td>
+    <td>4.78279e-05</td>
+  </tr>
+  <tr>
+  <td>180nm</td>
+  <td>0.2um</td>
+  <td> 5.48873e-05	</td>
+  </tr><br>
+  <tr>
+    <td>180nm</td>
+    <td>0.205</td>
+    <td>5.53984e-05	</td>
+  </tr>
+  
 
 
 
