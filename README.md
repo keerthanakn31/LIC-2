@@ -135,7 +135,7 @@ These analyses are essential for designing and evaluating the performance of a c
 |--------------------|-----------------------|--------------------------------------|
 |   Connection       | Resistor and NMOSFET  | NMOSFET and Diode connection PMOSFET |
 |    length          |     180nm             |                180nm                 |
-|     width          |                       |                                      |
+|     width          |     0.207um           |               5.2um                  |
 |     Supply voltage |      1.8V             |                 1.8V                 |
 |    Gate Voltage    |        0.9V           |                0.7V                  |
 |     Vout           |                       |                                      |
@@ -143,7 +143,7 @@ These analyses are essential for designing and evaluating the performance of a c
 |      Current       |      55.5uA           |              55.5uA                  |
 |     Q point        |                       |                                      |
 |     Phase shift    |       180 degree      |             180 degree               |
-|     Gain           |                       |                                      |
+|     Gain           |    0.5625             |               0.5277                       |
 
 
 
