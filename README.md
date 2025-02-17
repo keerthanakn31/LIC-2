@@ -22,7 +22,7 @@
 
 **DC Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/25559551-c57b-4206-a4ab-89199bad6401)
 
 
 <p>
@@ -80,7 +80,6 @@ Id = 5.56046e-05     <br>
 
 **AC ANALYSIS**
 
-![Image](https://github.com/user-attachments/assets/b5843619-8e87-49c1-9f3b-5ac87ad2d4c9)
 
 <P>
   In AC analysis we determine the frequency response by appluing the small signal analysis to the circuit. we do this analysis to check in which frequency the circuit acts as a linear ampliflier.
@@ -94,7 +93,7 @@ Id = 5.56046e-05     <br>
 
 
 
-![Image](https://github.com/user-attachments/assets/ae8bf8dd-43b9-4b36-98f7-f1d999f7a36c)
+
 
 <p>
   In Transient  Analysis we determine the gain of the circuit. For input we give sinusoidal voltage signal where the DC offset is 0.9v peak voltage Vpeak is 50mv, Frequency is 1kHz and AC amplitude is 1V. set the stop time to 3ms.
