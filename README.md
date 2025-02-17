@@ -1,4 +1,4 @@
- Experiment 2:
+# Experiment 1 - circuit 2:
 
 **Transient AC and DC analysis of common source ampliflier**
 
@@ -86,6 +86,15 @@ Id = 5.56046e-05     <br>
   For this type of sweep we select 'decade', starting frequency as 0.1Hz and stop frequenct as 1THz.
 
 </P><br>
+
+<p>
+  Gain = Vin/Vout<br>
+  AV= 0.5625 <br>
+  This matches the theoritical value which is calculated but Av = gmRd.<br>
+  where gm+ KnVov<br>
+  From graph we can observe that there is 180 degree phase shift which is exhibitied by CS ampliflier.
+  
+</p><br>
 
 
   
