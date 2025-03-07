@@ -6,6 +6,33 @@
  
  **IDEAL DIFFERENTIAL AMPLIFIER :** IN an ideal case,a differential amplifier would have infinite common-mode rejection,meaning it would prefectly reject any common-mode signals ans amplify only the difference between V1 and V2.<br/>
 
+**WORKING PRINCIPLE**
+The differential amplifier works on the principle of differential input and single-ended output. The circuit can be divided into two parts:
+
+1. Differential Input Stage: The differential input stage consists of resistors R1 and R2, which form a voltage divider network. The input signals Vin1 and Vin2 are applied to the non-inverting and inverting inputs of the op-amp, respectively.
+
+2. Single-Ended Output Stage: The single-ended output stage consists of resistors R3 and R4. The output of the op-amp is taken from the non-inverting input, and it is connected to the output resistor R3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  **PRACTICAL DIFFERENTIAL AMPLIFIER:** In practice, real differential amplifiers are not prefect and will have a finite CMRR.This means that while they are excellent at rejection common-mode signals,they will still amplify a small portion of any common-mode signal.<br/>
 
 **AIM** : Design and analyze the MOS Differential ampliflier circuit.
