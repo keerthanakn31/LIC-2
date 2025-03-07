@@ -2,7 +2,7 @@
  **DIFFERENTIAL AMPLIFLIER** 
 
 **THEORY**<br/>
- A differential amplifier is an electronic device designed to amplify the difference between two input signals, Whereas a normal amplifier,which amplifies a sinle input signal. The basic differential amplifier consists of Two Input Terminals,Amplification stage,Output.<br/>
+ A differential amplifier is an electronic device designed to amplify the difference between two input signals, Whereas a normal amplifier,which amplifies a single input signal. The basic differential amplifier consists of Two Input Terminals,Amplification stage,Output.<br/>
  
  **IDEAL DIFFERENTIAL AMPLIFIER :** IN an ideal case,a differential amplifier would have infinite common-mode rejection,meaning it would prefectly reject any common-mode signals ans amplify only the difference between V1 and V2.<br/>
 
