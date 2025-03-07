@@ -27,20 +27,20 @@
 
  **Procedure**<br/>
 
- Step 1 : DC Analysis:
-1.Connect the circuit as per the circuit diagram
-2.Fix the appropriate Q point,set the Rd and Rss value to operate in saturation
-3. set the length as 180n and vary the width untill we get required vout
-4.Increase Vicm to 1V and observe Vocm,Vp
-5.Calculate input swign and output swign
-6.Gain Equation using smallsignal modle
+ Step 1 : DC Analysis:<br/>
+1.Connect the circuit as per the circuit diagram<br/>
+2.Fix the appropriate Q point,set the Rd and Rss value to operate in saturation<br/>
+3. set the length as 180n and vary the width untill we get required vout<br/>
+4.Increase Vicm to 1V and observe Vocm,Vp<br/>
+5.Calculate input swign and output swign<br/>
+6.Gain Equation using smallsignal modle<br/>
 
-Step 2 : Transient Analysis:
-1. Apply Vinp-pmax and verify the output, calculate gain if the output is linear
-2. In transient analysis there should be 180 degree phase shift 
+Step 2 : Transient Analysis:<br/>
+1.Apply Vinp-pmax and verify the output, calculate gain if the output is linear<br/>
+2.In transient analysis there should be 180 degree phase shift <br/>
 
-Step 3 : AC Analysis:
-1. Find the 3-db BW
+Step 3 : AC Analysis:<br/>
+1.Find the 3-db BW<br/>
 
 In case 1 resister RSS and do the step by step procedure
 In case 2 Replace the resistor in the circuit by Current source do the same procedure 
