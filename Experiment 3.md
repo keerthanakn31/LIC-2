@@ -25,13 +25,16 @@
  **Procedure**<br/>
 
  Step 1 : DC Analysis:
- 1. Fix the appropriate Q point 
- 2. Increase Vicm to 1V and observe Vocm,Vp
- 3. Calculate input swign and output swign
- 4. Gain Equation using smallsignal modle
+1.Connect the circuit as per the circuit diagram
+2.Fix the appropriate Q point,set the Rd and Rss value to operate in saturation
+3. set the length as 180n and vary the width untill we get required vout
+4.Increase Vicm to 1V and observe Vocm,Vp
+5.Calculate input swign and output swign
+6.Gain Equation using smallsignal modle
 
 Step 2 : Transient Analysis:
 1. Apply Vinp-pmax and verify the output, calculate gain if the output is linear
+2. In transient analysis there should be 180 degree phase shift 
 
 Step 3 : AC Analysis:
 1. Find the 3-db BW
@@ -44,6 +47,7 @@ N Channel Mosfet
 Design and analyze the differential amplifier for the following  specifications:
 Vdd=2.2V, P<=2.2mw ,Vincm=1.2V ,Vocm=1.25V, Vp=0.4V<br/>
 perform DC analysis,transient analysis,frequency response and extract parameters.
+
 
 
 
