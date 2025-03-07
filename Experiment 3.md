@@ -8,7 +8,7 @@
 
  **PRACTICAL DIFFERENTIAL AMPLIFIER:** In practice, real differential amplifiers are not prefect and will have a finite CMRR.This means that while they are excellent at rejection common-mode signals,they will still amplify a small portion of any common-mode signal.<br/>
 
-**AIM** : Design and analyze the MOS Differential ampliflier circuit for the following specifications.
+**AIM** : Design and analyze the MOS Differential ampliflier circuit.
 
  **Objectives:**
  1. To understand the operation of differential amplifier.
