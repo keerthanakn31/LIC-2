@@ -1,6 +1,10 @@
 # EXPERIMENT 3
  **DIFFERENTIAL AMPLIFLIER** 
 
+
+**AIM** : Design and analyze the MOS Differential ampliflier circuit.
+
+
 **THEORY**<br/>
  A differential amplifier is an electronic device designed to amplify the difference between two input signals, Whereas a normal amplifier,which amplifies a single input signal. The basic differential amplifier consists of Two Input Terminals,Amplification stage,Output.<br/>
  
@@ -16,7 +20,6 @@
 
 - Low Noise: The differential amplifier has low noise, making it suitable for use in high-precision applications.
 
-**AIM** : Design and analyze the MOS Differential ampliflier circuit.
 
  **Objectives:**
  1. To understand the operation of differential amplifier.
