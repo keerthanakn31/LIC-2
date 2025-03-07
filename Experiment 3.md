@@ -39,8 +39,9 @@ Step 2 : Transient Analysis:
 Step 3 : AC Analysis:
 1. Find the 3-db BW
 
-Replace the resistor in the circuit by Current source do the same procedure and again replace it by 
-N Channel Mosfet 
+In case 1 resister RSS and do the step by step procedure
+In case 2 Replace the resistor in the circuit by Current source do the same procedure 
+In case 3 replace it by N Channel Mosfet do the same procedure 
 
 **Design Question**
 
