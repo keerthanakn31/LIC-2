@@ -78,6 +78,14 @@ For dc analysis we fix the length as 180n and then varying the width value until
 Length=180n<br/>
 Width = 6.4125u<br/>
 
+![Image](https://github.com/user-attachments/assets/3782e659-a2b5-4f00-a28a-69d930970a31)
+
+From above analysis we can observe:<br/>
+Vocm1 = Vocm2 + 1.25V<br/>
+Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
+
+
+
 
 
 
