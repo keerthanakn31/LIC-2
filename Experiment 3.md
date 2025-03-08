@@ -95,6 +95,8 @@ Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA 
  **Step 2 : Transient Analysis**
 
  
+
+ 
  
 
 
