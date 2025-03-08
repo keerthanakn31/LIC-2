@@ -84,8 +84,18 @@ From above analysis we can observe:<br/>
 Vocm1 = Vocm2 + 1.25V<br/>
 Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
 
+From Error log 
+![Image](https://github.com/user-attachments/assets/8e932e72-02c1-4c15-baf9-13229dbd3c28)
 
+We got the <br/>
+Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA ) <br/>
+ Vds > Vgs - Vth <br/>
+ Hence the mosfet operates in saturation region<br/>
 
+ **Step 2 : Transient Analysis**
+
+ 
+ 
 
 
 
