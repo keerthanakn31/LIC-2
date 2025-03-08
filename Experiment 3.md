@@ -143,6 +143,7 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    
 # CASE 2: Differential amplifier circuit with current source 
 
+In this case we just replace thw resistor Rss by Current source I
 **Circuit**
 
 ![Image](https://github.com/user-attachments/assets/e9229b24-3467-492b-b0fd-b6ef1d37c689)
@@ -150,8 +151,11 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 
 **Step 1 : DC analysis**
 
+For dc analysis we fix the length as 180n and then varying the width value untill we get the required Vocm as 1.25V <br/>
+Length=180n<br/>
+Width = u<br/>
 
- 
+ ![Image](https://github.com/user-attachments/assets/7ecee57f-8102-4687-a03e-6e94c4635e3f)
 
 
 
