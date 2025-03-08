@@ -4,11 +4,6 @@
 
 **AIM** : Design and analyze the MOS Differential ampliflier circuit.
 
-
- ![Image](https://github.com/user-attachments/assets/e23636e4-0bb4-4746-9cbb-6f18e62048aa)
- 
-
-
 **THEORY**<br/>
  A differential amplifier is an electronic device designed to amplify the difference between two input signals, Whereas a normal amplifier,which amplifies a single input signal. The basic differential amplifier consists of Two Input Terminals,Amplification stage,Output.<br/>
 
@@ -59,7 +54,6 @@ perform DC analysis,transient analysis,frequency response and extract parameters
 
 ![Image](https://github.com/user-attachments/assets/e06727e3-7cfc-41bc-b08e-582b1622c279)
 
-
 **CALACULATION**
 
 ![Image](https://github.com/user-attachments/assets/288115bb-f7d7-41a5-9d67-cc5ed99aef5c)
@@ -72,7 +66,11 @@ Rss = 400ohm<br/>
 
 # CASE 1 : Differential ampliflier circuit with Resistor 
 
+
+![Image](https://github.com/user-attachments/assets/e06727e3-7cfc-41bc-b08e-582b1622c279)
+
 **Step 1:   DC Analysis**
+
 
 For dc analysis we fix the length as 180n and then varying the width value untill we get the required Vocm as 1.25V <br/>
 Length=180n<br/>
@@ -117,11 +115,42 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 
 **Step 3 : AC Analysis**
 
+![Image](https://github.com/user-attachments/assets/8e6ffb35-4cc6-40a3-8c55-b87b5d44d9d5)
 
 
-  
+We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
+Gain = 12.12db<br/>
 
- 
+
+
+
+
+Finding gain through calculation:<br>
+Av = (Vocm1 - Vocm2)/(Vin1-Vin2)<br>
+   = 397.869/99.285<br>
+   = 4.007V/V<br>
+In 3db = 20log(4.007)<br>
+       =  12.06db <br>
+
+To find bandwidth :<br>
+12.12 db - 3db = 9.12db<br>
+frequency for gain 9.12 = 21.7GHz<br>
+Bw = f<sub>h</sub> - f<sub>l</sub> <br>
+   = 21.7Ghz -0Hz + 21.7GHz <br>
+
+
+   
+   
+# CASE 2: Differential amplifier circuit with current source 
+
+**Circuit**
+
+
+
+
+**Step 1 : DC analysis**
+
+
  
 
 
