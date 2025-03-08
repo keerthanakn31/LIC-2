@@ -211,15 +211,15 @@ Gain = 12.10db<br/>
 Finding gain through calculation:<br>
 Av = (Vocm1 - Vocm2)/(Vin1-Vin2)<br>
    = 476.699/119.144<br>
-   = 4.0010V/V<br>
-In 3db = 20log(4.0010)<br>
-       =  12.04db <br>
+   = 4.004V/V<br>
+In 3db = 20log(4.004)<br>
+       =  12.11db <br>
 
 To find bandwidth :<br>
-12.04 db - 3db = 9.04db<br>
-frequency for gain 9.12 = 21.7GHz<br>
+12.11db - 3db = 9.11db<br>
+frequency for gain 9.11 = 21.4GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
-   = 21.7Ghz -0Hz + 21.7GHz <br>
+   = 21.4Ghz -0Hz + 21.4GHz <br>
 
 
 
