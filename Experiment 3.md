@@ -4,9 +4,9 @@
 
 **AIM** : Design and analyze the MOS Differential ampliflier circuit.
 
-**CIRCUIT**
 
-
+ ![Image](https://github.com/user-attachments/assets/e23636e4-0bb4-4746-9cbb-6f18e62048aa)
+ 
 
 
 **THEORY**<br/>
@@ -17,8 +17,6 @@
  **PRACTICAL DIFFERENTIAL AMPLIFIER:** In practice, real differential amplifiers are not prefect and will have a finite CMRR.This means that while they are excellent at rejection common-mode signals,they will still amplify a small portion of any common-mode signal.<br/>
 
 
- ![Image](https://github.com/user-attachments/assets/e23636e4-0bb4-4746-9cbb-6f18e62048aa)
- 
 **Key characteristics:**
 
 - High Common-Mode Rejection Ratio (CMRR): The differential amplifier rejects common-mode signals, which are signals that are present on both input lines.
@@ -58,6 +56,18 @@ In case 3 replace it by N Channel Mosfet do the same procedure <br/>
 Design and analyze the differential amplifier for the following  specifications:
 Vdd=2.2V, P<=2.2mw ,Vincm=1.2V ,Vocm=1.25V, Vp=0.4V<br/>
 perform DC analysis,transient analysis,frequency response and extract parameters.
+
+![Image](https://github.com/user-attachments/assets/e06727e3-7cfc-41bc-b08e-582b1622c279)
+
+
+
+
+# CASE 1 : Differential ampliflier circuit with Resistor 
+
+**Step 1:   DC Analysis**
+
+
+
 
 
 
