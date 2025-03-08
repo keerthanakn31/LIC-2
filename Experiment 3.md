@@ -198,12 +198,28 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 **Step 3 : AC Analysis**
 
 
+![Image](https://github.com/user-attachments/assets/b6d1e446-6101-402f-a7b7-78f9443b482d)
 
 
-We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
-Gain = 12.12db<br/>
+We observed maginitude in the Ac analysis graph as 12.10db ,nothing but <br/>
+Gain = 12.10db<br/>
 
 
+
+
+
+Finding gain through calculation:<br>
+Av = (Vocm1 - Vocm2)/(Vin1-Vin2)<br>
+   = 476.699/119.144<br>
+   = 4.0010V/V<br>
+In 3db = 20log(4.0010)<br>
+       =  12.04db <br>
+
+To find bandwidth :<br>
+12.04 db - 3db = 9.04db<br>
+frequency for gain 9.12 = 21.7GHz<br>
+Bw = f<sub>h</sub> - f<sub>l</sub> <br>
+   = 21.7Ghz -0Hz + 21.7GHz <br>
 
 
 
