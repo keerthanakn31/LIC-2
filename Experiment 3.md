@@ -153,12 +153,24 @@ In this case we just replace thw resistor Rss by Current source I
 
 For dc analysis we fix the length as 180n and then varying the width value untill we get the required Vocm as 1.25V <br/>
 Length=180n<br/>
-Width = u<br/>
+Width = 8.5u<br/>
 
  ![Image](https://github.com/user-attachments/assets/7ecee57f-8102-4687-a03e-6e94c4635e3f)
+ 
+From above analysis we can observe:<br/>
+Vocm1 = Vocm2 + 1.25V<br/>
+Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
 
 
 
+From Error log 
+
+
+
+We got the <br/>
+Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA ) <br/>
+ Vds > Vgs - Vth <br/>
+ Hence the mosfet operates in saturation region<br/>
 
 
 
