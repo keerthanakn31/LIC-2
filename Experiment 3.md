@@ -161,21 +161,47 @@ From above analysis we can observe:<br/>
 Vocm1 = Vocm2 + 1.25V<br/>
 Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
 
-
-
 From Error log 
 
+![Image](https://github.com/user-attachments/assets/a37905b5-6ca9-48b4-a87c-a62446e90660)
 
 
 We got the <br/>
 Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA ) <br/>
  Vds > Vgs - Vth <br/>
  Hence the mosfet operates in saturation region<br/>
+ In this stimulation we can conclude that there is no much difference in the resistor and current source 
+
+ **Step 2 : Transient Analysis**
 
 
 
 
+  To perform transient analysis we need to find the input and output maximun and minimun swing.<br/>
 
+**INPUT SWING**<br/>
+  Vincm(min)</sub> = Vth + Vp <br>
+= 0.366 + 0.4 <br>
+= 0.766 V <br><br>
+Vincm(max)</sub> = Vdd - ( Id * Rd ) + Vth <br>
+= 2.2 - ( 0.5m * 1.9K ) + 0.366 <br>
+= 1.616 V <br><br>
+**OUTPUT SWING**<br/>
+Vocm(min)</sub> = Vov1 + Vp   <br>
+= Vgs - Vth +Vp  <br>
+= 0.8 - 0.36 + 0.4 <br>
+= 0.84 V <br><br>
+Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
+= 2.2 - ( 0.5m * 1.9K) <br>
+= 1.25V <br><br>
+
+**Step 3 : AC Analysis**
+
+
+
+
+We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
+Gain = 12.12db<br/>
 
 
 
