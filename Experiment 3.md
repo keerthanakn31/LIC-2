@@ -60,11 +60,28 @@ perform DC analysis,transient analysis,frequency response and extract parameters
 ![Image](https://github.com/user-attachments/assets/e06727e3-7cfc-41bc-b08e-582b1622c279)
 
 
+**CALACULATION**
+
+![Image](https://github.com/user-attachments/assets/288115bb-f7d7-41a5-9d67-cc5ed99aef5c)
+
+Iss = 1mA<br/>
+Id = 0.5mA<br/>
+RD = 1.9Kohm<br/>
+Rss = 400ohm<br/>
 
 
 # CASE 1 : Differential ampliflier circuit with Resistor 
 
 **Step 1:   DC Analysis**
+
+For dc analysis we fix the length as 180n and then varying the width value untill we get the required Vocm as 1.25V <br/>
+Length=180n<br/>
+Width = 6.4125u<br/>
+
+
+
+
+
 
 
 
