@@ -174,7 +174,7 @@ Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA 
 
  **Step 2 : Transient Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/b73785b7-fa3a-41b1-909e-d2fa0ac0883c)
 
 
   To perform transient analysis we need to find the input and output maximun and minimun swing.<br/>
