@@ -145,7 +145,7 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 
 **Circuit**
 
-
+![Image](https://github.com/user-attachments/assets/e9229b24-3467-492b-b0fd-b6ef1d37c689)
 
 
 **Step 1 : DC analysis**
