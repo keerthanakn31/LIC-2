@@ -238,11 +238,14 @@ Length=180n for M1,M2,M3<br>
 Width = 8.5u for M1 and M2 transistors <br>
 Width = 9.4616u for M3 transistor<br>
 
-
+![Image](https://github.com/user-attachments/assets/79c03c57-b4e4-47ef-9756-bba713bf3d11)
 
 From above analysis we can observe:<br/>
 Vocm1 = Vocm2 + 1.25V<br/>
-Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
+Id = 1mA<br/>
+
+From Error log 
+
 
 
 
