@@ -145,7 +145,7 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    
 # CASE 2: Differential amplifier circuit with current source 
 
-In this case we just replace thw resistor Rss by Current source I
+In this case we just replace the resistor Rss by Current source I
 **Circuit**
 
 ![Image](https://github.com/user-attachments/assets/e9229b24-3467-492b-b0fd-b6ef1d37c689)
@@ -222,6 +222,13 @@ To find bandwidth :<br>
 frequency for gain 9.04 = 21.4GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    = 21.4Ghz -0Hz + 21.4GHz <br>
+
+# CASE 3 : Differential amplifier with NMOSFET 
+
+In this case we just replace the current source with NMOSFET at source terminal
+
+**CIRCUIT**
+
 
 
 
