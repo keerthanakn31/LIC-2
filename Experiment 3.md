@@ -229,7 +229,20 @@ In this case we just replace the current source with NMOSFET at source terminal
 
 **CIRCUIT**
 
+![Image](https://github.com/user-attachments/assets/1880b1d8-0f0c-4c78-9b24-0fdf3b0128bc)
 
+**Step 1 : DC analysis**
+
+For dc analysis we fix the length as 180n for 3 transistors M1,M2,M3 and then varying the width value untill we get the required Vocm as 1.25V <br/>
+Length=180n for M1,M2,M3<br>
+Width = 8.5u for M1 and M2 transistors <br>
+Width = 9.4616u for M3 transistor<br>
+
+
+
+From above analysis we can observe:<br/>
+Vocm1 = Vocm2 + 1.25V<br/>
+Id1 = Id2 = O.5mA and Iss = 1 mA<br/>
 
 
 
