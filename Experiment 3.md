@@ -241,7 +241,6 @@ Length=180n for M1,M2,M3<br>
 Width = 8.5u for M1 and M2 transistors <br>
 Width = 9.4616u for M3 transistor<br>
 
-![Image](https://github.com/user-attachments/assets/79c03c57-b4e4-47ef-9756-bba713bf3d11)
 
 From above analysis we can observe:<br/>
 Vocm1 = Vocm2 + 1.25V<br/>
@@ -293,8 +292,9 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 We observed maginitude in the Ac analysis graph as 13.75db ,nothing but <br/>
 Gain = 13.75db<br/>
 
+![Image](https://github.com/user-attachments/assets/51d2d91c-428f-4247-8076-7b6be33dd63b)
 
-![Image](https://github.com/user-attachments/assets/2985d292-cfdc-4a7a-89ad-8c7ae813d796)
+ts/2985d292-cfdc-4a7a-89ad-8c7ae813d796)
 
 
 Finding gain through calculation:<br>
