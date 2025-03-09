@@ -203,11 +203,11 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 **Step 3 : AC Analysis**
 
 
+![Image](https://github.com/user-attachments/assets/9eff02cf-1c01-4e4f-8883-0347395f727c)
 
 
-
-We observed maginitude in the Ac analysis graph as db ,nothing but <br/>
-Gain = db<br/>
+We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
+Gain =12.12 db<br/>
 
 ![Image](https://github.com/user-attachments/assets/567984eb-1506-431f-8647-1bd6b2621abb)
 
@@ -222,9 +222,9 @@ In 3db = 20log(4.0301)<br>
 
 To find bandwidth :<br>
 12.11db - 3db = 9.11db<br>
-frequency for gain 9.11 = 21.4GHz<br>
+frequency for gain 9.11 = 21.7GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
-   = 21.4Ghz -0Hz = 21.4GHz <br>
+   = 21.7GHz -0Hz = 21.7GHz <br>
 
 # CASE 3 : Differential amplifier with NMOSFET 
 
