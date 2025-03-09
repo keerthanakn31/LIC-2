@@ -246,6 +246,39 @@ Id = 1mA<br/>
 
 From Error log 
 
+![Image](https://github.com/user-attachments/assets/ac543489-4eda-4f4b-b20d-a9818b397ef8)
+
+Vgs of all the mosfet id greter than Vth ,
+Vds>Vgs-vth ,
+hence it is in saturation <br>
+
+Gain = (2*Id3)/(Vov3)<br>
+= (2*0.5m)/(0.8-0.495)
+=2.51mV/V<br>
+
+ **Step 2 : Transient Analysis**
+
+
+
+
+  To perform transient analysis we need to find the input and output maximun and minimun swing.<br/>
+
+**INPUT SWING**<br/>
+  Vincm(min)</sub> = Vth + Vp <br>
+= 0.496 + 0.4 <br>
+= 0.896 V <br><br>
+Vincm(max)</sub> = Vdd - ( Id * Rd ) + Vth <br>
+= 2.2 - ( 0.5m * 1.9K ) + 0.496 <br>
+= 1.746 V <br><br>
+**OUTPUT SWING**<br/>
+Vocm(min)</sub> = Vov1 + Vp   <br>
+= (Vgs1 - Vth) +(Vgs3 - Vth)  <br>
+= (0.753 - 0.496) + (0.895 - 0.496) <br>
+= 0.656 V <br><br>
+Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
+= 2.2 - ( 0.5m * 1.9K) <br>
+= 1.25V <br><br>
+
 
 
 
