@@ -241,6 +241,8 @@ Length=180n for M1,M2,M3<br>
 Width = 8.5u for M1 and M2 transistors <br>
 Width = 9.4616u for M3 transistor<br>
 
+![Image](https://github.com/user-attachments/assets/8f31b692-d076-4ae5-bd83-03cebebdc8de)
+
 
 From above analysis we can observe:<br/>
 Vocm1 = Vocm2 + 1.25V<br/>
@@ -321,9 +323,9 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 |  Vp            |   0.4V                |    0.4V                       |   0.4V            |
 | Id             |0.5mA                  |0.5mA                          |  0.5mA            |
 | Rd             |  1.9Kohm              |  1.9Kohm                      |  1.9Kohm          |
-|  Avdm          |  4.007V/V             |                               |     4.8181V/V     |
-|  Gain in db    |  12.06db              |                               |     13.65db       |
-| Bandwidth      |   21.7GHz             |                               |    16.71GHz       |
+|  Avdm          |  4.007V/V             |    4.0301V/V                  |     4.8181V/V     |
+|  Gain in db    |  12.06db              |     12.106db                  |     13.65db       |
+| Bandwidth      |   21.7GHz             |     21.7GHz                   |    16.71GHz       |
 
 
  **INFERENCE**
