@@ -127,7 +127,7 @@ We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
 Gain = 12.12db<br/>
 
 
-
+![Image](https://github.com/user-attachments/assets/c156de2f-9965-4d32-bba4-d1946e753395)
 
 
 Finding gain through calculation:<br>
