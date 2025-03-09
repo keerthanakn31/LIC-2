@@ -259,6 +259,7 @@ Gain = (2*Id3)/(Vov3)<br>
  **Step 2 : Transient Analysis**
 
 
+![Image](https://github.com/user-attachments/assets/782bd146-b1c0-4442-86c4-b9baa0cec8cf)
 
 
   To perform transient analysis we need to find the input and output maximun and minimun swing.<br/>
@@ -278,6 +279,15 @@ Vocm(min)</sub> = Vov1 + Vp   <br>
 Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 = 2.2 - ( 0.5m * 1.9K) <br>
 = 1.25V <br><br>
+
+
+**Step 3 : AC Analysis**
+
+
+
+
+We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
+Gain = 12.12db<br/>
 
 
 
