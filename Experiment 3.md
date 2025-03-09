@@ -315,7 +315,7 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 ### RESULT
 
 |  PARAMETERS    |  CASE 1 (with Rss)    |  CASE 2 (with Current source) |  CASE 3(with NMOS | 
-|--------------------------------------------------------------------------------------------|
+|----------------|-----------------------|-------------------------------|-------------------|
 |   Vincm        |   1.2V                |       1.2V                    |   1.2V            |
 |  Vocm          |   1.25V               |      1.25V                    |   1.25v           |
 |  Vp            |   0.4V                |    0.4V                       |   0.4V            |
@@ -324,5 +324,12 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 |  Avdm          |  4.007V/V             |                               |     4.8181V/V     |
 |  Gain in db    |  12.06db              |                               |     13.65db       |
 | Bandwidth      |   21.7GHz             |                               |    16.71GHz       |
- 
+
+
+ **INFERENCE**
+ - The gain changes in each circuit because of output resistance.
+ - The DC operating point remains same in all 3 cases.
+ - by replacing Rss with current source gain will not changes more it remains almost same but by replacing it bt NMOS affets the gain,biasing and input impedence.
+ -Comparing 3 cases in case 3 it has high gain.
+
 
