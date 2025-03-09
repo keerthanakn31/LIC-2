@@ -221,7 +221,7 @@ To find bandwidth :<br>
 12.04db - 3db = 9.04db<br>
 frequency for gain 9.04 = 21.4GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
-   = 21.4Ghz -0Hz + 21.4GHz <br>
+   = 21.4Ghz -0Hz = 21.4GHz <br>
 
 # CASE 3 : Differential amplifier with NMOSFET 
 
@@ -284,13 +284,28 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 **Step 3 : AC Analysis**
 
 
+![Image](https://github.com/user-attachments/assets/a04393f1-e579-47cd-af37-dcccdaa40c9c)
 
 
-We observed maginitude in the Ac analysis graph as 12.12db ,nothing but <br/>
-Gain = 12.12db<br/>
+We observed maginitude in the Ac analysis graph as 13.75db ,nothing but <br/>
+Gain = 13.75db<br/>
 
 
 
+
+
+Finding gain through calculation:<br>
+Av = (Vocm1 - Vocm2)/(Vin1-Vin2)<br>
+   = 525.86400/109.14217<br>
+   = 4.8181V/V<br>
+In 3db = 20log(4.8181)<br>
+       =  13.65db <br>
+
+To find bandwidth :<br>
+13.65db - 3db = 10.65db<br>
+frequency for gain 10.65 = GHz<br>
+Bw = f<sub>h</sub> - f<sub>l</sub> <br>
+   = 21.4Ghz -0Hz = 21.4GHz <br>
 
 
     
