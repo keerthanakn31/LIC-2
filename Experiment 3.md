@@ -148,7 +148,8 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    
 # CASE 2: Differential amplifier circuit with current source 
 
-In this case we just replace the resistor Rss by Current source I
+In this case we just replace the resistor Rss by Current source I<br>
+
 **Circuit**
 
 ![Image](https://github.com/user-attachments/assets/e9229b24-3467-492b-b0fd-b6ef1d37c689)
