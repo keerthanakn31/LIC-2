@@ -209,20 +209,20 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 We observed maginitude in the Ac analysis graph as db ,nothing but <br/>
 Gain = db<br/>
 
+![Image](https://github.com/user-attachments/assets/567984eb-1506-431f-8647-1bd6b2621abb)
 
-![Image](https://github.com/user-attachments/assets/4dfb2bad-1cb8-4de9-b9f4-255c3e39fd26)
 
 
 Finding gain through calculation:<br>
 Av = (Vocm1 - Vocm2)/(Vin1-Vin2)<br>
-   = 476.699/119.144<br>
-   = 4.008V/V<br>
-In 3db = 20log(4.008)<br>
-       =  12.04db <br>
+   = 399.459/99.121<br>
+   = 4.0301V/V<br>
+In 3db = 20log(4.0301)<br>
+       =  12.106db <br>
 
 To find bandwidth :<br>
-12.04db - 3db = 9.04db<br>
-frequency for gain 9.04 = 21.4GHz<br>
+12.11db - 3db = 9.11db<br>
+frequency for gain 9.11 = 21.4GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    = 21.4Ghz -0Hz = 21.4GHz <br>
 
