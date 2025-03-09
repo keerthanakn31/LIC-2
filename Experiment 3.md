@@ -311,6 +311,17 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
    = 16.71Ghz -0Hz = 16.71GHz <br>
 
 
-    
+
+**RESULT**
+
+|  PARAMETERS    |  CASE 1 (with Rss)    |  CASE 2 (with Current source) |  CASE 3(with NMOS |   
+|   Vincm        |   1.2V                |       1.2V                    |   1.2V            |
+|  Vocm          |   1.25V               |      1.25V                    |   1.25v           |
+|  Vp            |   0.4V                |    0.4V                       |   0.4V            |
+| Id             |0.5mA                  |0.5mA                          |  0.5mA            |
+| Rd             |  1.9Kohm              |  1.9Kohm                      |  1.9Kohm          |
+|  Avdm          |  4.007V/V             |                               |     4.8181V/V     |
+|  Gain in db    |  12.06db              |                               |     13.65db       |
+| Bandwidth      |   21.7GHz             |                               |    16.71GHz       |
  
 
