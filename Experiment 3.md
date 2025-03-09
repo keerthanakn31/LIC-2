@@ -312,9 +312,10 @@ Bw = f<sub>h</sub> - f<sub>l</sub> <br>
 
 
 
-**RESULT**
+### RESULT
 
-|  PARAMETERS    |  CASE 1 (with Rss)    |  CASE 2 (with Current source) |  CASE 3(with NMOS |   
+|  PARAMETERS    |  CASE 1 (with Rss)    |  CASE 2 (with Current source) |  CASE 3(with NMOS | 
+|--------------------------------------------------------------------------------------------|
 |   Vincm        |   1.2V                |       1.2V                    |   1.2V            |
 |  Vocm          |   1.25V               |      1.25V                    |   1.25v           |
 |  Vp            |   0.4V                |    0.4V                       |   0.4V            |
