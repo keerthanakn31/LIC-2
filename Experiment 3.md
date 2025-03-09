@@ -294,7 +294,7 @@ Vocm(max)</sub> = Vdd - ( Id * Rd ) <br>
 We observed maginitude in the Ac analysis graph as 13.75db ,nothing but <br/>
 Gain = 13.75db<br/>
 
-![Image](https://github.com/user-attachments/assets/51d2d91c-428f-4247-8076-7b6be33dd63b)
+
 
 ts/2985d292-cfdc-4a7a-89ad-8c7ae813d796)
 
