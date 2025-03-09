@@ -92,6 +92,9 @@ Vgs = 0.8V , Vds = 0.85V , Vth = 0.495V , Id = 0.5mA  , Q-Point ( 0.85V , 0.5mA 
  Vds > Vgs - Vth <br/>
  Hence the mosfet operates in saturation region<br/>
 
+ Gm = 2Id/Vov =  2*1m/0.8-0.366 = 2.3V/V<br>
+Av = Gm * Rd = 2.3 * 1.9K = 4.37V/V<br> 
+
  **Step 2 : Transient Analysis**
 
 
@@ -291,7 +294,7 @@ We observed maginitude in the Ac analysis graph as 13.75db ,nothing but <br/>
 Gain = 13.75db<br/>
 
 
-
+![Image](https://github.com/user-attachments/assets/2985d292-cfdc-4a7a-89ad-8c7ae813d796)
 
 
 Finding gain through calculation:<br>
