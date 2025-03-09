@@ -303,9 +303,9 @@ In 3db = 20log(4.8181)<br>
 
 To find bandwidth :<br>
 13.65db - 3db = 10.65db<br>
-frequency for gain 10.65 = GHz<br>
+frequency for gain 10.65 = 16.71GHz<br>
 Bw = f<sub>h</sub> - f<sub>l</sub> <br>
-   = 21.4Ghz -0Hz = 21.4GHz <br>
+   = 16.71Ghz -0Hz = 16.71GHz <br>
 
 
     
