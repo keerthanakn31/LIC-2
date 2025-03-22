@@ -1,9 +1,11 @@
 # CURRENT MIRROR
-**AIM** : Design and analyse the Current Mirror circuit.<p><br>
+**AIM** : Design and analyse the Current Mirror circuit.<br>
+
 **THEORY** : 
-<br> A current mirror is an electronic circuit designed to copy(or mirror) a reference current from one active device to another. It ensures that the output current remains nearly identical to the reference current, regardless of voltage variations or loading conditions.<p><br>
+<br> A current mirror is an electronic circuit designed to copy(or mirror) a reference current from one active device to another. It ensures that the output current remains nearly identical to the reference current, regardless of voltage variations or loading conditions.<br>
+
 **Basic principle**
-<p> The current mirror relies on the principle that identical transistors(BJTs or MOSFETs)operating at the same conditions will have the same current.<p><br>
+<p> The current mirror relies on the principle that identical transistors(BJTs or MOSFETs)operating at the same conditions will have the same current.<br>
   
 **For a BJT Current Mirror**
 <p> 1.If two identical BJTs(Q1 and Q2) have the same V_BE,they should conduct the same current.
@@ -21,7 +23,20 @@
 <p> 2.Build the current mirror circuit.
 <p> 3.Set up Simulation Parameters.
 <p> 4.Run the simulation.
-<p> 5.Expected Results.
+<p> 5.Expected Results.<br>
+  
+**Tabular Column:**
+ | Iout(expected)(A)     |Iout(appeared)(A)   | (W/L)2(m)        |(W/L)1(m)   | Vx(V)  | Vout(V)|
+ |-----------------------|--------------------|------------------|------------|--------|--------|
+ |                       |                    |                  |            |        |        |
+ |                       |                    |                  |            |        |        |
+ |                       |                    |                  |            |        |        |
+ |                       |                    |                  |            |        |        |
+ |                       |                    |                  |            |        |        |
+
+ 
+
+
 
 
 
