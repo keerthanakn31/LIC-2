@@ -108,6 +108,8 @@ Gain=29.28dB.<br>
 **Case 2:for length 500nm.** <br>
 **For mirror ratio 1:1** <br>
 **DC Analysis** <br>
+
+![Image](https://github.com/user-attachments/assets/249eb4ae-3d7f-4a6f-adc6-58ade08a32a4)
 From DC analysis:<br>
 Vout=      =Vx. <br>
 Iref=Id=277uA. <br>
