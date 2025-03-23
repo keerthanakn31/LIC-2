@@ -157,7 +157,7 @@ Id =
 
 **Transient Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/c5655dfa-4ac1-440c-9e16-410c47db7c7f)
 
 DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
