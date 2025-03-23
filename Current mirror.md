@@ -163,16 +163,16 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
 
+![Image](https://github.com/user-attachments/assets/51916f84-f9c5-4594-babf-3206790c56e6)
 
 
-
-Gain=9.523dB.<br>
-9.523-3=6.523dB.<br>
+Gain=7.743dB.<br>
+7.743-3=4.743dB.<br>
 
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
 | Length     |180 nm      |   180 nm  | 180 nm    |   
-|Width       |10 um       |   10 um   |           |
+|Width       |10 um       |   10 um   |39.701901u |
 |Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
 
 
