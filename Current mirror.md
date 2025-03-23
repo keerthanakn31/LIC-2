@@ -18,12 +18,13 @@
  3.Set up Simulation Parameters.<br>
   4.Run the simulation. <br>
   5.Expected Results.<br>
-
-  **Design and analyse the current mirror circuit active load in the amplifier circuit.** <br>
+**Design question**
+  Design and analyse the current mirror circuit active load in the amplifier circuit. <br>
   given:VDD=1.8V,P<=1mW,Av=10V/V. <br>
 
  **Circuit diagram from LT spice**  <br>
-
+ 
+![Image](https://github.com/user-attachments/assets/4f955232-1e9f-4813-a766-a502c4eba14f)
 
 
 **Case 1:for length 180nm.** 
@@ -36,6 +37,7 @@ To obtain the current value according to the given ratio, the provided values of
 
 
 **DC Analysis** <br>
+
 From DC analysis:<br>
 Vout=      =Vx. <br>
 Iref=Id=277uA. <br>
