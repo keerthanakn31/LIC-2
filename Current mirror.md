@@ -29,7 +29,7 @@
 
 **Case 1:for length 180nm.** 
 **For mirror ratio 1:1** <br>
-WKT It=l\Iref+Id Therefore, for 1:1 ratio l\Iref=Id So,Iref=It/2 It=P/Vdd It=1mW/1.8V It=0.555mA. Therefore,Iref=0.277mA.<br>
+WKT It=I/Iref+Id Therefore, for 1:1 ratio I/Iref=Id So,Iref=It/2 It=P/Vdd It=1mW/1.8V It=0.555mA. Therefore,Iref=0.277mA.<br>
 To obtain the current value according to the given ratio, the provided values of W/L for M1 is 10um/180nm, M2 is 10um/180um, and M3 is um/180um. Vin to be in saturation region so considering Vin is V.<br>
 
 
