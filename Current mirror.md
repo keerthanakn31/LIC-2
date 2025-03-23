@@ -69,6 +69,9 @@ Gain=29.28dB.<br>
 
 **For mirror ratio 1:2**<br>
 **DC Analysis** <br>
+
+![Image](https://github.com/user-attachments/assets/395c8cbd-aea3-4e27-b48c-553994e00451)
+
 From DC analysis:<br>
 Vout=      =Vx. <br>
 Iref=Id=277uA. <br>
