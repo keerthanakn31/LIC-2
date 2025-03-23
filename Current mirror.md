@@ -38,6 +38,7 @@ To obtain the current value according to the given ratio, the provided values of
 
 **DC Analysis** <br>
 
+![Image](https://github.com/user-attachments/assets/b2324549-1dec-4634-9a95-c123b9846bd6)
 From DC analysis:<br>
 Vout=      =Vx. <br>
 Iref=Id=277uA. <br>
