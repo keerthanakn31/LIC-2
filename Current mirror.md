@@ -50,8 +50,6 @@ Iref=Id=277uA. <br>
 
 
 
-
-
 DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
