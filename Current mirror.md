@@ -148,10 +148,10 @@ Gain=38.28dB.<br>
 ![Image](https://github.com/user-attachments/assets/6c67a4c6-faec-43f6-85bf-872e15a3569c)
 
 From DC analysis:<br>
-Vout= 1.62195V <br>    
-Vx = 0.6447V <br>
-Iref=277mA <br>
-Id = 
+Vout= 1.65618V <br>    
+Vx = 0.7936V <br>
+Iref=0.183mA <br>
+Id = 0.18302mA
 
 
 
@@ -166,8 +166,8 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 
 
-Gain=29.28dB.<br>
-29.28-3=26.28 dB.<br>
+Gain=9.523dB.<br>
+9.523-3=6.523dB.<br>
 
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
