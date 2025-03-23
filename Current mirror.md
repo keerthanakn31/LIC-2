@@ -18,7 +18,7 @@
  3.Set up Simulation Parameters.<br>
   4.Run the simulation. <br>
   5.Expected Results.<br>
-**Design question**
+
   Design and analyse the current mirror circuit active load in the amplifier circuit. <br>
   given:VDD=1.8V,P<=1mW,Av=10V/V. <br>
 
