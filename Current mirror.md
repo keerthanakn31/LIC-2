@@ -127,7 +127,7 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/44fcbb8d-78f7-42cf-8117-161203ff688a)
 
 
 
@@ -141,7 +141,9 @@ Gain=29.28dB.<br>
 |Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
 
 **For mirror ratio 1:2**<br>
+
 **DC Analysis** <br>
+
 From DC analysis:<br>
 Vout=      =Vx. <br>
 Iref=Id=277uA. <br>
