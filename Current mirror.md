@@ -176,6 +176,9 @@ Gain=7.743dB.<br>
 |Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
 
 
+# PART B 
+
+
 
 
 
