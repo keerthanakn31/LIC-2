@@ -89,6 +89,7 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
 
+![Image](https://github.com/user-attachments/assets/1869defc-b0d4-4ee5-a301-c545c709dd6c)
 
 
 
