@@ -163,8 +163,7 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 **AC Analysis**
 
 
-
-
+![Image](https://github.com/user-attachments/assets/24fc9d21-047d-46f3-afad-1580e1fae3f0)
 
 Gain=29.28dB.<br>
 29.28-3=26.28 dB.<br>
