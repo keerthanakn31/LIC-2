@@ -145,7 +145,7 @@ Gain=38.28dB.<br>
 **For mirror ratio 1:2**<br>
 
 **DC Analysis** <br>
-
+![Image](https://github.com/user-attachments/assets/6c67a4c6-faec-43f6-85bf-872e15a3569c)
 
 From DC analysis:<br>
 Vout= 1.62195V <br>    
@@ -156,6 +156,7 @@ Id =
 
 
 **Transient Analysis**
+
 
 
 DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
