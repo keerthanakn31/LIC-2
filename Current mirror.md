@@ -81,13 +81,15 @@ Iref=Id=277uA. <br>
 **Transient Analysis**
 
 
-
+![Image](https://github.com/user-attachments/assets/dced0030-7c84-4e90-bdc0-aead110850b8)
 
 
 
 DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
+
+
 
 
 
