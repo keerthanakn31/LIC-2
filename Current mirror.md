@@ -7,35 +7,188 @@
 **Basic principle**
 <p> The current mirror relies on the principle that identical transistors(BJTs or MOSFETs)operating at the same conditions will have the same current.<br>
   
-**For a BJT Current Mirror**
-<p> 1.If two identical BJTs(Q1 and Q2) have the same V_BE,they should conduct the same current.
-<p> 2.The first transistor (Q1) is diode-connected(its base and collector are shorted),ensuring it operates in the active region.
-<p> 3.The reference current (I_ref)sets the current in Q1.
-<p> 4.Since Q2 shares the same V_BE, it conducts a nearly identical current(I_out = I_ref).
-  
 **For a MOSFET Current Mirror**
 <P>1.A MOSFET current mirror works similarly but uses the V_GS voltage.
 <p>2.The first MOSFET (M1) is diode connected,setting its V_GS.
 <p>3.The second MOSFET (M2) has the same V_GS,so it conducts the same current.
 
 **Procedure**:
-<p> 1.Open LTspice and click on File->New schematic.
-<p> 2.Build the current mirror circuit.
-<p> 3.Set up Simulation Parameters.
-<p> 4.Run the simulation.
-<p> 5.Expected Results.<br>
-  
-**Tabular Column:**
- | Iout(expected)(A)     |Iout(appeared)(A)   | (W/L)2(m)        |(W/L)1(m)   | Vx(V)  | Vout(V)|
- |-----------------------|--------------------|------------------|------------|--------|--------|
- |                       |                    |                  |            |        |        |
- |                       |                    |                  |            |        |        |
- |                       |                    |                  |            |        |        |
- |                       |                    |                  |            |        |        |
- |                       |                    |                  |            |        |        |
+ 1.Open LTspice and click on File->New schematic. <br>
+ 2.Build the current mirror circuit.<br>
+ 3.Set up Simulation Parameters.<br>
+  4.Run the simulation. <br>
+  5.Expected Results.<br>
+
+  **Design and analyse the current mirror circuit active load in the amplifier circuit.** <br>
+  given:VDD=1.8V,P<=1mW,Av=10V/V. <br>
+
+ **Circuit diagram from LT spice**  <br>
+
+
+
+**Case 1:for length 180nm.** 
+**For mirror ratio 1:1** <br>
+WKT It=l\Iref+Id Therefore, for 1:1 ratio l\Iref=Id So,Iref=It/2 It=P/Vdd It=1mW/1.8V It=0.555mA. Therefore,Iref=0.277mA.<br>
+To obtain the current value according to the given ratio, the provided values of W/L for M1 is 10um/180nm, M2 is 10um/180um, and M3 is um/180um. Vin to be in saturation region so considering Vin is V.<br>
+
+
+
+
+
+**DC Analysis** <br>
+From DC analysis:<br>
+Vout=      =Vx. <br>
+Iref=Id=277uA. <br>
+
+
+
+**Transient Analysis**
+
+
+
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+
+
+
+Gain=29.28dB.<br>
+29.28-3=26.28 dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |180 nm      |   180 nm  | 180 nm    |   
+|Width       |10 um       |   10 um   |           |
+|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+
+**For mirror ratio 1:2**<br>
+**DC Analysis** <br>
+From DC analysis:<br>
+Vout=      =Vx. <br>
+Iref=Id=277uA. <br>
+
+
+
+**Transient Analysis**
+
+
+
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+
+
+
+Gain=29.28dB.<br>
+29.28-3=26.28 dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |180 nm      |   180 nm  | 180 nm    |   
+|Width       |10 um       |   10 um   |           |
+|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+
+**Case 2:for length 500nm.** <br>
+**For mirror ratio 1:1** <br>
+**DC Analysis** <br>
+From DC analysis:<br>
+Vout=      =Vx. <br>
+Iref=Id=277uA. <br>
+
+
+
+**Transient Analysis**
+
+
+
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+
+
+
+Gain=29.28dB.<br>
+29.28-3=26.28 dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |180 nm      |   180 nm  | 180 nm    |   
+|Width       |10 um       |   10 um   |           |
+|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+
+**For mirror ratio 1:2**<br>
+**DC Analysis** <br>
+From DC analysis:<br>
+Vout=      =Vx. <br>
+Iref=Id=277uA. <br>
+
+
+
+**Transient Analysis**
+
+
+
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+
+
+
+Gain=29.28dB.<br>
+29.28-3=26.28 dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |180 nm      |   180 nm  | 180 nm    |   
+|Width       |10 um       |   10 um   |           |
+|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
+  
 
+  
+  
 
 
 
