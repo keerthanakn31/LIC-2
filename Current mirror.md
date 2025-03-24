@@ -113,7 +113,7 @@ Gain=29.065dB.<br>
 
 ![Image](https://github.com/user-attachments/assets/249eb4ae-3d7f-4a6f-adc6-58ade08a32a4)
 From DC analysis:<br>
-Vout= 0.6447  361.4uA=Vx. <br>
+Vout= 0.6447V ,361.1V=Vx. <br>
 Iref=Id=277uA. <br>
 
 
@@ -184,7 +184,8 @@ Gain=7.743dB.<br>
 ![Image](https://github.com/user-attachments/assets/de68a57a-a9bc-4530-94d7-70b420e9f215)
 
 From DC analysis:<br>
-Vout= 0.6447  361.4uA=Vx. <br>
+Vout= 0.2319V <br> 
+Vx= 0.293177V <br>
 Iref=Id=277uA. <br>
 
 
@@ -201,11 +202,47 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 **AC Analysis**
 
 
+![Image](https://github.com/user-attachments/assets/a7a5220f-8c52-44f3-81e0-c259c90e4f62)
 
 
-# PART B 
+Gain=35.471db<br>
+35.471-3=32.471 dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |1um         |   1 um    | 1 um      |   
+|Width       |10 um       |   10 um   | 97.048um  |        
+|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+
+**For mirror ratio 1:2**<br>
+
+**DC Analysis** <br>
+
+From DC analysis:<br>
+Vout= 1.65618V <br>    
+Vx = 0.7936V <br>
+Iref=0.183mA <br>
+Id = 0.18302mA
 
 
+
+**Transient Analysis**
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+Gain=B.<br>
+7.743-3=4.743dB.<br>
+
+|Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
+|------------|------------|-----------|-----------|
+| Length     |1um         |   1um     | 1um       |   
+|Width       |10 um       |   20 um   |           |
+|Current     |Iref=0.183mA|Id=0.183 mA|Id=0.183 mA| 
 
 
 
