@@ -255,7 +255,7 @@ Design the differential amplifier using the same design specification as experim
 **CIRCUIT**
 
 
-
+![Image](https://github.com/user-attachments/assets/c49d87a9-0521-4938-9c2f-a0a0884f3ee3)
 
 
 
