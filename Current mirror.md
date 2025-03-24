@@ -218,6 +218,8 @@ Gain=35.471db<br>
 
 **DC Analysis** <br>
 
+![Image](https://github.com/user-attachments/assets/e1373f88-34b3-45c2-9545-ce81edcee0dc)
+
 From DC analysis:<br>
 Vout= 1.65618V <br>    
 Vx = 0.7936V <br>
