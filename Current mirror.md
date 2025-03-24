@@ -103,7 +103,7 @@ Gain=29.065dB.<br>
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
 | Length     |180 nm      |   180 nm  | 180 nm    |   
-|Width       |10 um       |   20 um   |           |
+|Width       |10 um       |   20 um   |  40.426um |
 |Current     |Iref=0.183mA|Id= 361.4uA|Id= 361.4uA| 
 
 **Case 2:for length 500nm.** <br>
@@ -138,7 +138,7 @@ Gain=38.28dB.<br>
 
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
-| Length     |180 nm      |   180 nm  | 180 nm    |   
+| Length     |500nnm      |   500 nm  | 500 nm    |   
 |Width       |10 um       |   10 um   | 67.0631u  |        
 |Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
 
@@ -171,9 +171,9 @@ Gain=7.743dB.<br>
 
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
-| Length     |180 nm      |   180 nm  | 180 nm    |   
-|Width       |10 um       |   10 um   |39.701901u |
-|Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
+| Length     |500 nm      |   500 nm  | 500 nm    |   
+|Width       |10 um       |   20 um   |39.701901u |
+|Current     |Iref=0.183mA|  0.18302mA|0.18302  mA| 
 
 
 
@@ -221,10 +221,10 @@ Gain=35.471db<br>
 ![Image](https://github.com/user-attachments/assets/e1373f88-34b3-45c2-9545-ce81edcee0dc)
 
 From DC analysis:<br>
-Vout= 1.65618V <br>    
-Vx = 0.7936V <br>
+Vout= 0.4357V <br>    
+Vx = 0.5159V <br>
 Iref=0.183mA <br>
-Id = 0.18302mA
+Id = 183uA<br>
 
 
 
@@ -237,15 +237,18 @@ DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
 
 **AC Analysis**
 
+![Image](https://github.com/user-attachments/assets/ea4ee935-10c4-49a5-94c5-dd1bfff449ea)
 
-Gain=B.<br>
-7.743-3=4.743dB.<br>
+Gain=39.268db<br>
+39.268-3=36.268dB.<br>
 
 |Parameters  |  MOSFET 1  | MOSFET 2  | MOSFET 3  |
 |------------|------------|-----------|-----------|
 | Length     |1um         |   1um     | 1um       |   
-|Width       |10 um       |   20 um   |           |
+|Width       |10 um       |   20 um   |  65.256um |
 |Current     |Iref=0.183mA|Id=0.183 mA|Id=0.183 mA| 
+
+
 
 
 
