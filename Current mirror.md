@@ -279,7 +279,7 @@ Design the differential amplifier using the same design specification as experim
 **AC ANALYSIS***
 
 
-
+![Image](https://github.com/user-attachments/assets/cadae9d3-eb2a-4219-a989-05eb138ca559)
 
 
 
