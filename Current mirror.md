@@ -248,6 +248,36 @@ Gain=39.268db<br>
 |Width       |10 um       |   20 um   |  65.256um |
 |Current     |Iref=0.183mA|Id=0.183 mA|Id=0.183 mA| 
 
+# PART B 
+
+Design the differential amplifier using the same design specification as experiment 3(differential amplifier). Perform DC, Transient, AC analysis for this.<br>
+
+**CIRCUIT**
+
+
+
+
+
+
+
+**DC ANALYSIS**
+
+
+
+
+
+
+
+
+
+**TRANSIENT ANALYSIS**
+
+
+
+**AC ANALYSIS***
+
+
+
 
 
 
