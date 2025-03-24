@@ -191,7 +191,7 @@ Iref=Id=277uA. <br>
 
 **Transient Analysis**
 
-
+![Image](https://github.com/user-attachments/assets/cf69f7a6-cf69-4aab-9651-16dcb9a052c7)
 
 
 
