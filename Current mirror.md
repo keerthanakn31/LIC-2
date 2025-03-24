@@ -264,13 +264,15 @@ Design the differential amplifier using the same design specification as experim
 
 
 
-
+![Image](https://github.com/user-attachments/assets/1e8b6e9a-deac-46cb-99b7-33974b840edc)
 
 
 
 
 
 **TRANSIENT ANALYSIS**
+
+
 
 
 
