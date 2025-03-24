@@ -230,6 +230,7 @@ Id = 0.18302mA
 
 **Transient Analysis**
 
+![Image](https://github.com/user-attachments/assets/458a5c87-1cbe-4f2f-a777-f309942a7148)
 
 
 DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
