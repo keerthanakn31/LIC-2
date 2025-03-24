@@ -272,7 +272,7 @@ Design the differential amplifier using the same design specification as experim
 
 **TRANSIENT ANALYSIS**
 
-
+![Image](https://github.com/user-attachments/assets/83a0a287-bd9d-403a-86a2-95df8175fad5)
 
 
 
