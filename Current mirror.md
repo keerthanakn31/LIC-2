@@ -176,6 +176,33 @@ Gain=7.743dB.<br>
 |Current     |Iref=0.227mA|Id=0.227 mA|Id=0.227 mA| 
 
 
+
+**Case 3:for length 1um.** <br>
+
+**For mirror ratio 1:1** <br>
+**DC Analysis** <br>
+
+
+From DC analysis:<br>
+Vout= 0.6447  361.4uA=Vx. <br>
+Iref=Id=277uA. <br>
+
+
+
+**Transient Analysis**
+
+
+
+
+
+
+DC offset=0.5697V and amplitude=10 mV with frequency 1 kHz.<br>
+
+**AC Analysis**
+
+
+
+
 # PART B 
 
 
