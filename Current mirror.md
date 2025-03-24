@@ -6,11 +6,7 @@
 
 **Basic principle**
 <p> The current mirror relies on the principle that identical transistors(BJTs or MOSFETs)operating at the same conditions will have the same current.<br>
-  
-**For a MOSFET Current Mirror**
-<P>1.A MOSFET current mirror works similarly but uses the V_GS voltage.
-<p>2.The first MOSFET (M1) is diode connected,setting its V_GS.
-<p>3.The second MOSFET (M2) has the same V_GS,so it conducts the same current.
+
 
 **Procedure**:
  1.Open LTspice and click on File->New schematic. <br>
@@ -31,8 +27,6 @@
 **For mirror ratio 1:1** <br>
 WKT It=I/Iref+Id Therefore, for 1:1 ratio I/Iref=Id So,Iref=It/2 It=P/Vdd It=1mW/1.8V It=0.555mA. Therefore,Iref=0.277mA.<br>
 To obtain the current value according to the given ratio, the provided values of W/L for M1 is 10um/180nm, M2 is 10um/180um, and M3 is um/180um. Vin to be in saturation region so considering Vin is V.<br>
-
-
 
 
 
@@ -274,12 +268,14 @@ Design the differential amplifier using the same design specification as experim
 
 ![Image](https://github.com/user-attachments/assets/83a0a287-bd9d-403a-86a2-95df8175fad5)
 
-
+The output voltage is 1.90V
 
 **AC ANALYSIS***
 
 
 ![Image](https://github.com/user-attachments/assets/cadae9d3-eb2a-4219-a989-05eb138ca559)
+
+The gain of the circuit is 33.36db
 
 
 
